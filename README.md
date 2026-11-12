@@ -26,4 +26,4 @@
 
 ## Contact
 
-- LinkedIn: <!--- www.linkedin.com/in/abhinayrimilpurty>
+- LinkedIn: [abhinayrimilpurty](https://www.linkedin.com/in/abhinayrimilpurty)
