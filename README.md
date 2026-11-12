@@ -14,9 +14,7 @@
 |---|---|
 | [real-time-fraud-detection-platform](https://github.com/abhinayrimil/real-time-fraud-detection-platform) | AWS platform in Terraform for sub-100ms P99 scoring at 10k+ TPS: SQS FIFO, Lambda, EMR streaming, DynamoDB feature store, API Gateway |
 | [gitops](https://github.com/abhinayrimil/gitops) | EKS provisioned with Terraform, Helm + Argo CD deployments, Trivy scanning, Prometheus/Grafana monitoring |
-| [gitops-argocd](https://github.com/abhinayrimil/gitops-argocd) | Declarative app delivery with Argo CD |
-| [ansible-dummy-role](https://github.com/abhinayrimil/ansible-dummy-role) | Reusable Ansible role |
-| [DevOps-Projects](https://github.com/abhinayrimil/DevOps-Projects) | Collection of DevOps / CI/CD exercises |
+
 
 ## Toolbox
 
@@ -28,4 +26,4 @@
 
 ## Contact
 
-- LinkedIn: <!-- add link -->
+- LinkedIn: <!--- www.linkedin.com/in/abhinayrimilpurty>
