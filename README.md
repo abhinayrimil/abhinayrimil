@@ -18,11 +18,11 @@
 
 ## Toolbox
 
-**Cloud & IaC:** AWS · Terraform · Ansible
-**Containers & Delivery:** Docker · Kubernetes · Helm · Argo CD · GitHub Actions · Jenkins
-**Security:** Trivy · SonarQube · secrets management · least-privilege IAM
-**Observability:** Prometheus · Grafana
-**Languages:** Python · Bash · HCL · YAML
+- **Cloud & IaC:** AWS · Terraform · Ansible
+- **Containers & Delivery:** Docker · Kubernetes · Helm · Argo CD · GitHub Actions · Jenkins
+- **Security:** Trivy · SonarQube · secrets management · least-privilege IAM
+- **Observability:** Prometheus · Grafana
+- **Languages:** Python · Bash · HCL · YAML
 
 ## Contact
 
